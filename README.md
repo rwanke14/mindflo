@@ -20,7 +20,7 @@ Welcome to mindFlō, a self-care service tracker that allows you to track the pr
 * Pamper 
 
 LINK IS HERE
-https://mindflo.herokuapp.com/
+https://mindlfo.herokuapp.com/
 
 
 Deployed Link: 
